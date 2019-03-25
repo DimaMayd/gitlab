@@ -1,0 +1,81 @@
+d832e00 HEAD@{0}: merge develop: Fast-forward
+1c74697 HEAD@{1}: checkout: moving from develop to master
+ Lab2 - Screenshots/1.1.PNG | Bin 9178 -> 0 bytes
+ Lab2 - Screenshots/1.2.PNG | Bin 22297 -> 0 bytes
+ readme.txt                 |   2 ++
+ 3 files changed, 2 insertions(+)
+d832e00 HEAD@{2}: commit (merge): Merge branch 'styles' into develop
+6a86447 HEAD@{3}: merge images: Fast-forward
+ index.html | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+62c1b37 HEAD@{4}: checkout: moving from styles to develop
+ images/1.1.PNG | Bin 0 -> 9178 bytes
+ images/1.2.PNG | Bin 0 -> 22297 bytes
+ index.html     |   9 +++++++++
+ 3 files changed, 9 insertions(+)
+a9ab560 HEAD@{5}: checkout: moving from develop to styles
+ index.html       | 9 ++++++++-
+ styles/style.css | 8 ++++++++
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+62c1b37 HEAD@{6}: checkout: moving from master to develop
+ images/1.1.PNG | Bin 0 -> 9178 bytes
+ images/1.2.PNG | Bin 0 -> 22297 bytes
+ index.html     |   9 +++++++++
+ 3 files changed, 9 insertions(+)
+1c74697 HEAD@{7}: checkout: moving from styles to master
+ Lab2 - Screenshots/1.1.PNG | Bin 9178 -> 0 bytes
+ Lab2 - Screenshots/1.2.PNG | Bin 22297 -> 0 bytes
+ readme.txt                 |   2 ++
+ 3 files changed, 2 insertions(+)
+a9ab560 HEAD@{8}: commit: 'CSS layout added'
+ index.html       | 9 ++++++++-
+ styles/style.css | 8 ++++++++
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+62c1b37 HEAD@{9}: checkout: moving from develop to styles
+ images/1.1.PNG | Bin 0 -> 9178 bytes
+ images/1.2.PNG | Bin 0 -> 22297 bytes
+ index.html     |   9 +++++++++
+ 3 files changed, 9 insertions(+)
+62c1b37 HEAD@{10}: checkout: moving from images to develop
+ images/1.1.PNG | Bin 0 -> 9178 bytes
+ images/1.2.PNG | Bin 0 -> 22297 bytes
+ index.html     |   9 +++++++++
+ 3 files changed, 9 insertions(+)
+6a86447 HEAD@{11}: commit: edited broken img links
+ index.html | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+fd0c065 HEAD@{12}: commit: more images added for html-file
+ .index.html.swp | Bin 0 -> 12288 bytes
+ images/1.3.PNG  | Bin 0 -> 29077 bytes
+ images/1.4.PNG  | Bin 0 -> 11941 bytes
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+62c1b37 HEAD@{13}: checkout: moving from develop to images
+ images/1.1.PNG | Bin 0 -> 9178 bytes
+ images/1.2.PNG | Bin 0 -> 22297 bytes
+ index.html     |   9 +++++++++
+ 3 files changed, 9 insertions(+)
+62c1b37 HEAD@{14}: checkout: moving from develop to develop
+ images/1.1.PNG | Bin 0 -> 9178 bytes
+ images/1.2.PNG | Bin 0 -> 22297 bytes
+ index.html     |   9 +++++++++
+ 3 files changed, 9 insertions(+)
+62c1b37 HEAD@{15}: commit: add images to html
+ images/1.1.PNG | Bin 0 -> 9178 bytes
+ images/1.2.PNG | Bin 0 -> 22297 bytes
+ index.html     |   9 +++++++++
+ 3 files changed, 9 insertions(+)
+1c74697 HEAD@{16}: checkout: moving from master to develop
+ Lab2 - Screenshots/1.1.PNG | Bin 9178 -> 0 bytes
+ Lab2 - Screenshots/1.2.PNG | Bin 22297 -> 0 bytes
+ readme.txt                 |   2 ++
+ 3 files changed, 2 insertions(+)
+1c74697 HEAD@{17}: commit: Initial Commit #2
+ Lab2 - Screenshots/1.1.PNG | Bin 9178 -> 0 bytes
+ Lab2 - Screenshots/1.2.PNG | Bin 22297 -> 0 bytes
+ readme.txt                 |   2 ++
+ 3 files changed, 2 insertions(+)
+5ae17df HEAD@{18}: commit (initial): Initial commit
+ Lab2 - Screenshots/1.1.PNG | Bin 0 -> 9178 bytes
+ Lab2 - Screenshots/1.2.PNG | Bin 0 -> 22297 bytes
+ readme.txt                 |   1 +
+ 3 files changed, 1 insertion(+)
